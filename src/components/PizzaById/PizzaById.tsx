@@ -112,7 +112,7 @@ const PizzaById: FC<IPizza> = ({ id, title, description, imageUrl, prices, sizes
                     </button>
                 </div>
 
-                <Link to={'/'}>
+                <Link to={'/diliveri-let-s-pizza'}>
                     <button className="button button--outline button--add">Вернуться назад</button>
                 </Link>
             </div>

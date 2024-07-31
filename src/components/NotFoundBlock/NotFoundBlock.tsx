@@ -11,7 +11,7 @@ const NotFoundBlock: FC = () => {
             <h1>Ничего не найдено</h1>
             <p>К сожалению такой страницы нет в нашем интернет-магазине</p>
 
-            <Link to="/" className="button button--black">
+            <Link to="/diliveri-let-s-pizza" className="button button--black">
               <span>Вернуться назад</span>
             </Link>
         </div>

@@ -17,14 +17,14 @@ const App: React.FC = () => {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<MainLayouts />}>
-					<Route path="" element={<Home />} />
-					<Route path="cart" element={
+				<Route path="" element={<MainLayouts />}>
+					<Route path="/diliveri-let-s-pizza" element={<Home />} />
+					<Route path="/diliveri-let-s-pizza/cart" element={
 						<Suspense fallback={<div>Идет загрузка...</div>}>
 							<Cart />
 						</Suspense>
 					} />
-					<Route path="pizza/:id" element={
+					<Route path="/diliveri-let-s-pizza/pizza/:id" element={
 						<Suspense fallback={<div>Идет загрузка...</div>}>
 							<FullPizza />
 						</Suspense>

@@ -44,7 +44,7 @@ const PizzaBlock: FC<IPizza> = memo(({ id, title, imageUrl, prices, sizes, types
     return (
         <div className="pizza-block-wrapper">
             <div className="pizza-block">
-                <Link to={`/pizza/${id}`}>
+                <Link to={`/diliveri-let-s-pizza/pizza/${id}`}>
                     <img
                         className="pizza-block__image"
                         src={imageUrl[0]}
