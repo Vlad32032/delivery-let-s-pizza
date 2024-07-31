@@ -140,8 +140,6 @@ function Home() {
 		)
 	);
 
-	console.log(pizzasList)
-
     return (
         <div className="container">
             <div className="content__top">

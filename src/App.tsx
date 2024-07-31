@@ -17,14 +17,14 @@ const App: React.FC = () => {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="" element={<MainLayouts />}>
-					<Route path="/diliveri-let-s-pizza" element={<Home />} />
-					<Route path="/diliveri-let-s-pizza/cart" element={
+				<Route path="/diliveri-let-s-pizza/" element={<MainLayouts />}>
+					<Route path="" element={<Home />} />
+					<Route path="cart" element={
 						<Suspense fallback={<div>Идет загрузка...</div>}>
 							<Cart />
 						</Suspense>
 					} />
-					<Route path="/diliveri-let-s-pizza/pizza/:id" element={
+					<Route path="pizza/:id" element={
 						<Suspense fallback={<div>Идет загрузка...</div>}>
 							<FullPizza />
 						</Suspense>
@@ -35,6 +35,11 @@ const App: React.FC = () => {
 						</Suspense>
 					} />
 				</Route>
+				<Route path="*" element={
+						<Suspense fallback={<div>Идет загрузка...</div>}>
+							<NotFound />
+						</Suspense>
+					} />
 			</Routes>
 		</div>
 	);
