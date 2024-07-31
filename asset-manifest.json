@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/diliveri-let-s-pizza/static/css/main.cd54d32a.css",
-    "main.js": "/diliveri-let-s-pizza/static/js/main.ae6e5e1d.js",
+    "main.js": "/diliveri-let-s-pizza/static/js/main.56689639.js",
     "Cart.js": "/diliveri-let-s-pizza/static/js/Cart.47598f7c.chunk.js",
     "FullPizza.css": "/diliveri-let-s-pizza/static/css/FullPizza.66d87e64.chunk.css",
     "FullPizza.js": "/diliveri-let-s-pizza/static/js/FullPizza.dc7624ad.chunk.js",
@@ -11,7 +11,7 @@
     "static/media/pizza-logo.svg": "/diliveri-let-s-pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
     "index.html": "/diliveri-let-s-pizza/index.html",
     "main.cd54d32a.css.map": "/diliveri-let-s-pizza/static/css/main.cd54d32a.css.map",
-    "main.ae6e5e1d.js.map": "/diliveri-let-s-pizza/static/js/main.ae6e5e1d.js.map",
+    "main.56689639.js.map": "/diliveri-let-s-pizza/static/js/main.56689639.js.map",
     "Cart.47598f7c.chunk.js.map": "/diliveri-let-s-pizza/static/js/Cart.47598f7c.chunk.js.map",
     "FullPizza.66d87e64.chunk.css.map": "/diliveri-let-s-pizza/static/css/FullPizza.66d87e64.chunk.css.map",
     "FullPizza.dc7624ad.chunk.js.map": "/diliveri-let-s-pizza/static/js/FullPizza.dc7624ad.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.cd54d32a.css",
-    "static/js/main.ae6e5e1d.js"
+    "static/js/main.56689639.js"
   ]
 }
