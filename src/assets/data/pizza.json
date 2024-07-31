@@ -1,0 +1,650 @@
+[
+    {
+        "id": "0",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D610D2925109AB2E1C92CC5383C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610CF7E265B7C72BE5AE757CA7.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610D2925109AB2E1C92CC5383C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610D91679BB519F38C3F45880F.avif"
+        ],
+        "title": "Сырная 🌱",
+        "description": "Моцарелла, сыры чеддер и пармезан, фирменный соус альфредо",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [299, 459, 699],
+        "priceMin": 299,
+        "category": 5,
+        "rating": 9
+      },
+      {
+        "id": "1",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D6105EF6690B86FBDE6150B5B0C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6105BBFC3AA9734180ABA7F61B.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6105EF6690B86FBDE6150B5B0C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610649F9A898C96EE96FEA37A5.avif"
+        ],
+        "title": "Маргарита 🌱",
+        "description": "Увеличенная порция моцареллы, томаты , итальянские травы , фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [359, 559, 789],
+        "priceMin": 359,
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": "2",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D61546D8483A61A0BBAA7ADCC78.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61543CB077931C15B0E271347F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61546D8483A61A0BBAA7ADCC78.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6154C786F2940500127AA6D33E.avif"
+        ],
+        "title": "Овощи и грибы 🌱",
+        "description": "Шампиньоны , томаты , сладкий перец , красный лук , кубики брынзы , моцарелла, фирменный томатный соус, итальянские травы",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [399, 599, 899],
+        "priceMin": 399,
+        "category": 5,
+        "rating": 6
+      },
+      {
+        "id": "3",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE869128CE6E3098BF11CCE2910F84.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE86912B01094BA18A70103AA228DE.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE869128CE6E3098BF11CCE2910F84.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE869125D2FF9F8924794F04E52AE1.avif"
+        ],
+        "title": "Вегетарианская 🌱",
+        "description": "Грибы, перец болгарский, кукуруза, оливки, лук красный, помидоры, моцарелла, томатный соус.",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [349, 549, 749],
+        "priceMin": 349,
+        "category": 5,
+        "rating": 8
+      },
+      {
+        "id": "4",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE868E4C7A7C4E9699533EAE29E1E9.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE868E49F62D9EBD2A57B7EAC08F49.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE868E4C7A7C4E9699533EAE29E1E9.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE868E4F892F438294D0F8375CECC3.avif"
+        ],
+        "title": "Моцарелла 🌱",
+        "description": "Моцарелла, фирменный соус альфредо",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [150, 250, 350],
+        "priceMin": 150,
+        "category": 5,
+        "rating": 2
+      },
+      {
+        "id": "5",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D5E971F8EB3BD51F08C01D37824.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5E96ED0A7394A93088704071AC.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5E971F8EB3BD51F08C01D37824.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5E9782483790146F132BA4703A.avif"
+        ],
+        "title": "Четыре сыра 🌱",
+        "description": "Моцарелла , Рокфор , смесь сыров Чеддер и Пармезан , соус aльфредо",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [500, 800, 1000],
+        "priceMin": 500,
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": "6",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEF677E1690B17804FD83C2962761E.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF677DEB4266BAAA301AC49F02BB5.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF677E1690B17804FD83C2962761E.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF677E5280141A0FA97AF2BA9F021.avif"
+        ],
+        "title": "Грибная 🌱",
+        "description": "Увеличенная порция грибов с настоящей моцареллой и соусом Альфредо",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [369, 459, 559],
+        "priceMin": 369,
+        "category": 5,
+        "rating": 3
+      },
+      {
+        "id": "7",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EED23429101B00BBC0FDE1D9B440C5.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EED23425D59A75847D5B7C7A3283F7.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EED23429101B00BBC0FDE1D9B440C5.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EED2342CC1E57A8165E716A6DBA633.avif"
+        ],
+        "title": "Капрезе 🌱",
+        "description": "Соус Ранч, моцарелла, помидоры черри, песто, руккола",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [410, 540, 680],
+        "priceMin": 410,
+        "category": 5,
+        "rating": 4
+      },
+      {
+        "id": "8",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D5F513DCF2297035C77C12E4141.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F5106D1EC87B1492A39384CBD.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F513DCF2297035C77C12E4141.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F516B1D728F90BF28C418198E.avif"
+        ],
+        "title": "Грибы и руккола 🌱",
+        "description": "Сыр Моцарелла, грибной соус, белые грибы, твердый итальянский сыр, руккола",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [369, 429, 569],
+        "priceMin": 369,
+        "category": 5,
+        "rating": 6
+      },
+      {
+        "id": "9",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D603C76D8B9BE2A20904D20A8E3.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D603C4A451DB61DC16778B1673F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D603C76D8B9BE2A20904D20A8E3.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D603CA207A9B530A2FDBA27CD61.avif"
+        ],
+        "title": "Маргарита черри 🌱",
+        "description": "Пицца-соус, сыр моцарелла, итальянские травы, помидоры черри.",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [379, 579, 799],
+        "priceMin": 379,
+        "category": 5,
+        "rating": 9
+      },
+      {
+        "id": "10",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEE1CF676EFD978FE17AC0ED0B312F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1CF639517ABA0FE732AD610C386.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1CF676EFD978FE17AC0ED0B312F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1CF6966B48586BD53EE19AA00A0.avif"
+        ],
+        "title": "Чесночная креветка 🦐",
+        "description": "Гранулированный чеснок, ветчина, сыр моцарелла, бекон, креветки, соус для пиццы",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [777, 977, 1177],
+        "priceMin": 777,
+        "category": 3,
+        "rating": 7
+      },
+      {
+        "id": "11",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF2C996CA8FA17B2D6D795EF88294F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C99668C4D51977B2357BBD95612.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C996CA8FA17B2D6D795EF88294F.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C996F5BB234BD83DAF3DD8D410E.avif"
+        ],
+        "title": "Креветки со сладким чили 🦐",
+        "description": "Креветки , ананасы , соус сладкий чили, сладкий перец , моцарелла, фирменный соус альфредо",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [677, 877, 1077],
+        "priceMin": 677,
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": "12",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D61C861A42187E5019F8D3BC470.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61C823AE97904F2E6B75C6C19C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61C861A42187E5019F8D3BC470.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61C8BD2723A1D1BB2EC593F24D.avif"
+        ],
+        "title": "Тунец 🐟",
+        "description": "Томатный соус, тунец, маслины, моцарелла, лук красный, орегано",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [737, 927, 1127],
+        "priceMin": 737,
+        "category": 3,
+        "rating": 7
+      },
+      {
+        "id": "13",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF3EA212AEDBDCA1DB30DD90CE3372.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF3EA223D4549DBA15A58DBE45536E.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF3EA212AEDBDCA1DB30DD90CE3372.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF3EA1F8B7C2B39F289C1E081ADE61.avif"
+        ],
+        "title": "Песто с курицей 🐔",
+        "description": "Сыр Моцарелла, соус ранчо, чеснок, курица, брокколи, помидоры, мягкий сыр, соус песто",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [332, 432, 532],
+        "priceMin": 332,
+        "category": 2,
+        "rating": 5
+      },
+
+
+      {
+        "id": "14",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF1DC2DEA061EB90FFF3C1F03B4DC1.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF1DC2DB30A90F9D712EEDF06AFFED.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF1DC2DEA061EB90FFF3C1F03B4DC1.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF1DC2DFE63DB0BB45868FE917BF93.avif"
+        ],
+        "title": "Цезарь 🐔",
+        "description": "Заправка Цезарь, сыр моцарелла, тертый итальянский твердый сыр, курица, салат айсберг, помидоры",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [382, 442, 582],
+        "priceMin": 382,
+        "category": 2,
+        "rating": 7
+      },
+      {
+        "id": "15",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF2C99F90EB2F593392295994B3F1C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C99F3504A7787BBE5A455A43B8D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C99F90EB2F593392295994B3F1C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF2C99FD5A42FCA6313FC581CDB6A9.avif"
+        ],
+        "title": "Жюльен 🐔",
+        "description": "Грибной соус, сыр чеддер, сыр моцарелла, лук красный, курица, шампиньоны, соус ранчо, тертый итальянский твердый сыр, чеснок",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [422, 592, 772],
+        "priceMin": 422,
+        "category": 2,
+        "rating": 3
+      },
+      {
+        "id": "16",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF14318376399393299338FB82FEAA.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF9EBA3B40FA880EAD24425A9FA67.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF14318376399393299338FB82FEAA.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF9EBA8FCDD7E8B26D9BB7EBD131A.avif"
+        ],
+        "title": "Куриная барбекю 🐔",
+        "description": "Курица, красный лук, кукуруза, моцарелла, соус барбекю, томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [522, 632, 742],
+        "priceMin": 522,
+        "category": 2,
+        "rating": 8
+      },
+      {
+        "id": "17",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEF9EB12BE80FDBFF83ED23AF295E5.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF9EB11409CD4B1E777352E2E7E27.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF9EB12BE80FDBFF83ED23AF295E5.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF9EB183A408EB86E59805753A12E.avif"
+        ],
+        "title": "Куриная с сыром 🐔",
+        "description": "Курица, помидоры, чеддер, моцарелла, сырный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [372, 482, 592],
+        "priceMin": 372,
+        "category": 2,
+        "rating": 5
+      },
+      {
+        "id": "18",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE8693A8A3B5E88D6BF052886D15D6.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE86930EAC46C8970B42602F57D211.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE8693A8A3B5E88D6BF052886D15D6.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE8693175017659862AA3BC9D4D022.avif"
+        ],
+        "title": "Куриная с овощами 🐔",
+        "description": "Курица, грибы, болгарский перец, оливки, красный лук, моцарелла, томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [522, 642, 852],
+        "priceMin": 522,
+        "category": 2,
+        "rating": 4
+      },
+      {
+        "id": "19",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF251A39786D10AA62C3D9F9DF2642.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF251A36F1186AAFAA0B21589FF22E.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF251A39786D10AA62C3D9F9DF2642.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF251A3DF465489E93E750CACA6237.avif"
+        ],
+        "title": "Куриная блю-чиз 🐔",
+        "description": "Сливочный соус, курица, моцарелла, красный лук, помидор, сыр с голубой плесенью, орегано",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [822, 1022, 1222],
+        "priceMin": 822,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": "20",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE874226D636E68C91E09A7F256458.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE8742233D2C858F792722891A7A3B.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE874226D636E68C91E09A7F256458.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE874229D32B2B853643AB0E949DA4.avif"
+        ],
+        "title": "Куриное ранчо 🐔",
+        "description": "Сливочный соус, моцарелла, чеснок, ветчина, увеличенная порция курицы, увеличенная порция помидоров, чесночный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [762, 892, 1032],
+        "priceMin": 762,
+        "category": 2,
+        "rating": 7
+      },
+      {
+        "id": "21",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D6149EB101D8727573088FA2EFF.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6149B3D37BBFCC595A0EA60FD1.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6149EB101D8727573088FA2EFF.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D614A46A625AE3FD9EE995314BD.avif"
+        ],
+        "title": "Диабло 🌶️🌶️",
+        "description": "Острые колбаски чоризо, острый перец халапеньо, соус барбекю, митболы из говядины , томаты, сладкий перец, красный лук, моцарелла, фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [666, 866, 966],
+        "priceMin": 666,
+        "category": 4,
+        "rating": 10
+      },
+      {
+        "id": "22",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE96106734C44282EA7D91F7B21F3D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE96106B62C658B13699D836DA355D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE96106734C44282EA7D91F7B21F3D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE9610706AE7658BD559B7419EDA70.avif"
+        ],
+        "title": "Королевская острая 🌶️",
+        "description": "Лук красный, соус чили, говядина, грибы, курица, соус для пиццы, сыр моцарелла, ветчина",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [1056, 1256, 1456],
+        "priceMin": 1056,
+        "category": 4,
+        "rating": 8
+      },
+      {
+        "id": "23",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D5F3A4C1242847791CBB2176331.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3A1FA4D98216BCC385B97042.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3A4C1242847791CBB2176331.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3A7C22C3B5D062B2CC5E39F9.avif"
+        ],
+        "title": "Мексиканская 🌶️",
+        "description": "Пицца-соус, сыр моцарелла, помидоры, курица, паприка, грибы, халапеньо, пепперони",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [466, 566, 766],
+        "priceMin": 466,
+        "category": 4,
+        "rating": 4
+      },
+      {
+        "id": "24",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEE1D16042F0AC83892F994C972FB1.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D15ECE4E40BD04B6571129BBFD.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D16042F0AC83892F994C972FB1.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D16090076387FC2BE7875F20E4.avif"
+        ],
+        "title": "Салями острая 🌶️",
+        "description": "Острый кисло-сладкий соус, сыр моцарелла, салями, соус для пиццы.",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [366, 486, 616],
+        "priceMin": 366,
+        "category": 4,
+        "rating": 2
+      },
+      {
+        "id": "25",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D610A62D78598406363A9A8AD65.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610A2E0B10AA10DE302B871250.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610A62D78598406363A9A8AD65.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D610AC6710C85D092845CE0342E.avif"
+        ],
+        "title": "Пепперони 🥩",
+        "description": "Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [297, 357, 457],
+        "priceMin": 297,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": "26",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D6122BB3424B593BB15EACE3197.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D612260923296B692C61AB1D24D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6122BB3424B593BB15EACE3197.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6122EAB69093130B6C6FF49E05.avif"
+        ],
+        "title": "Двойная пепперони 🥩",
+        "description": "Двойная порция пикантной пепперони, увеличенная порция моцареллы, фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [357, 457, 557],
+        "priceMin": 357,
+        "category": 1,
+        "rating": 8
+      },
+      {
+        "id": "27",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D6150D498419E133DF19945A00D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6150A9426CB905492C1CC3F43D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6150D498419E133DF19945A00D.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61512FA081A7A1F20647232E15.avif"
+        ],
+        "title": "Колбаски барбекю 🥩",
+        "description": "Острые колбаски чоризо , соус барбекю, томаты , красный лук , моцарелла, фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [477, 577, 677],
+        "priceMin": 477,
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": "28",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D6108E3A1C9952CD3A7F39A4D02.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6108B7B5DDADA9508B8AE5A913.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D6108E3A1C9952CD3A7F39A4D02.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D61095E56E6BBC9D410F89DF983.avif"
+        ],
+        "title": "Мясная 🥩",
+        "description": "Цыпленок, ветчина, пикантная пепперони, острые колбаски чоризо, моцарелла, фирменный томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [527, 727, 837],
+        "priceMin": 527,
+        "category": 1,
+        "rating": 3
+      },
+      {
+        "id": "29",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE869416EE391FB9D5E4AF78F47AAD.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE869415E1D9C28200879C08B0676E.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE869416EE391FB9D5E4AF78F47AAD.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE869419B95DCD981779AE51865372.avif"
+        ],
+        "title": "Супер мясная 🥩",
+        "description": "Острый соус, пепперони, острые фрикадельки, курица, сосиски, моцарелла, томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [877, 977, 1077],
+        "priceMin": 877,
+        "category": 1,
+        "rating": 7
+      },
+      {
+        "id": "30",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE89AE0996F976AA4F518A07EDE499.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89AE084DA7B2B5881F8FA79031F8.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89AE0996F976AA4F518A07EDE499.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89AE0D419BCB94341C0FB5EB3D05.avif"
+        ],
+        "title": "Летняя 🥩",
+        "description": "Томатный соус, моцарелла, паприка, красный лук, помидоры черри, бекон, чеснок, зеленый зеленый лук",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [567, 667, 767],
+        "priceMin": 567,
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": "31",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE89A428A0E90293487EAAEB77019A.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89A427646C89B7F70596DB848BDA.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89A428A0E90293487EAAEB77019A.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE89A42CF5D172B0159E640DEAF627.avif"
+        ],
+        "title": "Прошутто 🥩",
+        "description": "Томатный соус, маслины черные, моцарелла, шампиньоны, орегано, прошутто",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [777, 877, 977],
+        "priceMin": 777,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": "32",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF25193397DCC1BF7C3F4470DDB11B.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF25192E6DECC4A0E671AA441F1314.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF25193397DCC1BF7C3F4470DDB11B.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF25193DB80494AA76CF4875A1C30E.avif"
+        ],
+        "title": "Прошутто с рукколой 🥩",
+        "description": "Томатный соус, моцарелла, помидоры черри, маслины черные, орегано, руккола, прошутто",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [877, 977, 1077],
+        "priceMin": 877,
+        "category": 1,
+        "rating": 7
+      },
+      {
+        "id": "33",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF0C97D80F98BEB5AE39A433329E78.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF0C97CD2F5DF9BBEE30D9633D8549.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF0C97D80F98BEB5AE39A433329E78.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF0C97DF92FC60AD5FBC1808EE3120.avif"
+        ],
+        "title": "Мясная с грибами 🥩",
+        "description": "Томатный соус, моцарелла, чеснок, красный лук, пепперони, бекон, сладкий зеленый перец, помидоры черри, грибы",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [477, 577, 777],
+        "priceMin": 477,
+        "category": 1,
+        "rating": 2
+      },
+      {
+        "id": "34",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEF678007D49FCB0F31646857258E0.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF678007D49FCB0F31646857258E0.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF678047585D188C50F8B4E2F11C8.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEF67806B2BDE5B78826821BE7C7AB.avif"
+        ],
+        "title": "Греческая 🥩",
+        "description": "Моцарелла, сыр фета, оливки, ветчина, соус для пиццы, красный лук, помидоры, свежий перец, орегано",
+        "types": [1],
+        "sizes": [25, 30, 35],
+        "prices": [419, 549, 789],
+        "priceMin": 419,
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": "35",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EF1D9C40619F78A6B4B85A23646368.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF200C3DBAA5AA89EEB0AAFEF9859C.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF1D9C40619F78A6B4B85A23646368.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EF1D9C47661A0EB36AA6F4CF62A95D.avif"
+        ],
+        "title": "Фиеста со свеклой 🥩",
+        "description": "Сочетание сырных, сочных ломтиков свеклы и хрустящего бекона",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [527, 727, 927],
+        "priceMin": 527,
+        "category": 1,
+        "rating": 3
+      },
+      {
+        "id": "36",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EEE1D01892230994C703E9805861E3.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D016C501AA851D2DE0934E5447.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D01892230994C703E9805861E3.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EEE1D019CE3E929BDD6A73B55B037D.avif"
+        ],
+        "title": "Карбонара 🥩",
+        "description": "Гранулированный чеснок, сыр моцарелла, красный лук, бекон, помидоры черри, итальянские травы, пармезан, сыр чеддер, сырный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [617, 817, 1017],
+        "priceMin": 617,
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": "37",
+        "imageUrl": [
+          "https://media.dodostatic.net/image/r:292x292/11EE7D5F3B58554BB4A33A8231E17F99.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3B188516996EC9474B49F167.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3B58554BB4A33A8231E17F99.avif",
+          "https://media.dodostatic.net/image/r:584x584/11EE7D5F3B8E40AE9F2BFCC44010B827.avif"
+        ],
+        "title": "Мяная на максималках 🥩",
+        "description": "Сыр Моцарелла, бекон, говядина, ветчина, охотничьи колбаски, томатный соус",
+        "types": [0, 1],
+        "sizes": [25, 30, 35],
+        "prices": [997, 1207, 1377],
+        "priceMin": 997,
+        "category": 1,
+        "rating": 5
+      }
+]

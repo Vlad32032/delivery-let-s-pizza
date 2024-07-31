@@ -1,0 +1,56 @@
+.PizzaById {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+    @media (max-width: 800px) {
+        flex-direction: column;
+    }
+
+    .wrapperImg {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        min-height: 600px;
+        min-width: 600px;
+
+        @media (max-width: 1200px) {
+            min-height: 100px;
+            min-width: 100px;
+        }
+
+        .img1 {
+            width: 70%;
+        }
+
+        .img2 {
+            width: 85%;
+        }
+
+        .img3 {
+            width: 100%;
+        }
+    }
+
+    .wrapperDescription {
+        max-width: 500px;
+        padding: 0 20px;
+
+        h2 {
+            margin-bottom: 20px;
+
+            font-size: 40px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        a {
+            display: block;
+
+            margin-top: 40px;
+        }
+    }
+}
