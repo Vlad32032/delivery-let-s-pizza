@@ -13,7 +13,7 @@ if (rootElement) {
     const root = ReactDOM.createRoot(rootElement);
     
     root.render(
-        <BrowserRouter>
+        <BrowserRouter basename="/diliveri-let-s-pizza/">
             <Provider store={store}>
                 <App />
             </Provider>
