@@ -7,7 +7,7 @@ import { countCart } from "../redyx/slices/cartSlice";
 
 import Search from "./Search/Search";
 
-import LogoSvg from "../assets/img/pizza-logo.svg"
+import LogoSvg from "../assets/img/pizza-logo.png"
 
 const Header: FC = () => {
 	const location = useLocation();

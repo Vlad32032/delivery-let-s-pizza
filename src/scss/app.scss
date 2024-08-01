@@ -6,6 +6,7 @@
 
 body {
   background-color: $background;
+  background: linear-gradient(143deg, #f1c840 0%, #e99230 100%);
 }
 
 .wrapper {
@@ -85,6 +86,11 @@ body {
     justify-content: space-between;
     align-items: center;
 
+    @media (max-width: 560px) {
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
     .content__items {
       display: block;
     }
@@ -154,15 +160,27 @@ body {
     padding-top: 30px;
     margin-top: 30px;
 
+    @media (max-width: 860px) {
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
     &-img {
       display: flex;
       align-items: center;
       margin-right: 15px;
       width: 10%;
+      min-width: 60px;
 
       img {
         width: 80px;
         height: 80px;
+
+        @media (max-width: 860px) {
+          width: 60px;
+          height: 60px;
+        }
       }
     }
 
@@ -172,16 +190,26 @@ body {
       justify-content: center;
       width: 40%;
 
+      min-width: 160px;
+
       h3 {
         font-weight: bold;
         font-size: 22px;
         line-height: 27px;
         letter-spacing: 0.01em;
+
+        @media (max-width: 860px) {
+          font-size: 18px;
+        }
       }
 
       p {
         font-size: 18px;
         color: #8d8d8d;
+
+        @media (max-width: 860px) {
+          font-size: 12px;
+        }
       }
     }
 
@@ -190,6 +218,7 @@ body {
       align-items: center;
       justify-content: space-between;
       width: 13%;
+      min-width: 100px;
 
       &-minus {
         svg {
@@ -201,6 +230,8 @@ body {
 
       b {
         font-size: 22px;
+        
+        padding: 0 10px;
       }
     }
 
@@ -257,6 +288,11 @@ body {
       display: flex;
       justify-content: space-between;
 
+      @media (max-width: 560px) {
+        flex-wrap: wrap;
+        gap: 20px;
+      }
+
       span {
         font-size: 22px;
 
@@ -272,6 +308,11 @@ body {
       display: flex;
       justify-content: space-between;
       margin-top: 40px;
+
+      @media (max-width: 560px) {
+        flex-wrap: wrap;
+        gap: 20px;
+      }
 
       .go-back-btn {
         display: flex;
@@ -319,6 +360,10 @@ body {
     width: 560px;
     text-align: center;
 
+    @media (max-width: 800px) {
+      width: 270px;
+    }
+
     h2 {
       font-size: 32px;
       margin-bottom: 10px;
@@ -340,6 +385,10 @@ body {
       display: block;
       width: 300px;
       margin: 45px auto 60px;
+
+      @media (max-width: 800px) {
+        width: 200px;
+      }
     }
 
     .button--black {

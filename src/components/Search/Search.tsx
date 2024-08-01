@@ -54,7 +54,7 @@ const Search: FC = () => {
             <input
                 ref={inputRef}
                 type="text"
-                placeholder="Поиск пиццы..."
+                placeholder="Поиск..."
                 value={currentValue}
                 onChange={(event) => setCurrentValue(event.target.value)}
             />

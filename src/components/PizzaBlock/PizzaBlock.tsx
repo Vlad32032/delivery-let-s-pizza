@@ -26,7 +26,7 @@ const PizzaBlock: FC<IPizza> = memo(({ id, title, imageUrl, prices, sizes, types
             id: pizzaId, 
             title,
             imageUrl: imageUrl[0],
-            price: activePrice, 
+            price: activePrice + (activeType * 100), 
             size: activeSize,
             type: typesDough[activeType],
             count: 1,
@@ -81,7 +81,7 @@ const PizzaBlock: FC<IPizza> = memo(({ id, title, imageUrl, prices, sizes, types
                     </ul>
                 </div>
                 <div className="pizza-block__bottom">
-                    <div className="pizza-block__price">{activePrice} ₽</div>
+                    <div className="pizza-block__price">{activePrice + (activeType * 100)} ₽</div>
                     <button onClick={addPizzaToCart} className="button button--outline button--add">
                         <svg
                             width="12"
