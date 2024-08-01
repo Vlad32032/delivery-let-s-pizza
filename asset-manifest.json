@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/diliveri-let-s-pizza/static/css/main.cd54d32a.css",
-    "main.js": "/diliveri-let-s-pizza/static/js/main.fad581cd.js",
-    "Cart.js": "/diliveri-let-s-pizza/static/js/Cart.fbdb5885.chunk.js",
+    "main.js": "/diliveri-let-s-pizza/static/js/main.8919ec7a.js",
+    "Cart.js": "/diliveri-let-s-pizza/static/js/Cart.88cf370c.chunk.js",
     "FullPizza.css": "/diliveri-let-s-pizza/static/css/FullPizza.66d87e64.chunk.css",
     "FullPizza.js": "/diliveri-let-s-pizza/static/js/FullPizza.2bc0ea17.chunk.js",
     "NotFound.css": "/diliveri-let-s-pizza/static/css/NotFound.9f1171c6.chunk.css",
@@ -11,8 +11,8 @@
     "static/media/pizza-logo.svg": "/diliveri-let-s-pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
     "index.html": "/diliveri-let-s-pizza/index.html",
     "main.cd54d32a.css.map": "/diliveri-let-s-pizza/static/css/main.cd54d32a.css.map",
-    "main.fad581cd.js.map": "/diliveri-let-s-pizza/static/js/main.fad581cd.js.map",
-    "Cart.fbdb5885.chunk.js.map": "/diliveri-let-s-pizza/static/js/Cart.fbdb5885.chunk.js.map",
+    "main.8919ec7a.js.map": "/diliveri-let-s-pizza/static/js/main.8919ec7a.js.map",
+    "Cart.88cf370c.chunk.js.map": "/diliveri-let-s-pizza/static/js/Cart.88cf370c.chunk.js.map",
     "FullPizza.66d87e64.chunk.css.map": "/diliveri-let-s-pizza/static/css/FullPizza.66d87e64.chunk.css.map",
     "FullPizza.2bc0ea17.chunk.js.map": "/diliveri-let-s-pizza/static/js/FullPizza.2bc0ea17.chunk.js.map",
     "NotFound.9f1171c6.chunk.css.map": "/diliveri-let-s-pizza/static/css/NotFound.9f1171c6.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.cd54d32a.css",
-    "static/js/main.fad581cd.js"
+    "static/js/main.8919ec7a.js"
   ]
 }
