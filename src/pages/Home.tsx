@@ -4,9 +4,9 @@ import { dataSortOptionsList } from "../assets/data/data";
 
 import { useLocation, useNavigate } from "react-router-dom";
 
-import { useAppDispatch, useAppSelector } from "../redyx/hooks/hooks";
-import { selectFilterState, setAllSearchParams } from "../redyx/slices/filterSlice";
-import { fetchPizzas, fetchPizzasLength, selectPizzasState } from "../redyx/slices/pizzasSlice";
+import { useAppDispatch, useAppSelector } from "../redux/hooks/hooks";
+import { selectFilterState, setAllSearchParams } from "../redux/slices/filterSlice";
+import { fetchPizzas, fetchPizzasLength, selectPizzasState } from "../redux/slices/pizzasSlice";
 
 import qs from 'qs';
 

@@ -2,8 +2,8 @@ import { FC, useEffect } from "react";
 
 import { useNavigate, useParams } from "react-router-dom";
 
-import { useAppDispatch, useAppSelector } from "../redyx/hooks/hooks";
-import { fetchPizzaById, selectPizzasState } from "../redyx/slices/pizzasSlice";
+import { useAppDispatch, useAppSelector } from "../redux/hooks/hooks";
+import { fetchPizzaById, selectPizzasState } from "../redux/slices/pizzasSlice";
 import PizzaById from "../components/PizzaById/PizzaById";
 
 const FullPizza: FC = () => {

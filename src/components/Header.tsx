@@ -2,8 +2,8 @@ import { FC, useEffect, useRef } from "react";
 
 import { Link, useLocation } from "react-router-dom";
 
-import { useAppDispatch, useAppSelector } from "../redyx/hooks/hooks";
-import { countCart } from "../redyx/slices/cartSlice";
+import { useAppDispatch, useAppSelector } from "../redux/hooks/hooks";
+import { countCart } from "../redux/slices/cartSlice";
 
 import Search from "./Search/Search";
 

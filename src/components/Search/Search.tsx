@@ -1,7 +1,7 @@
 import { FC, useEffect, useRef, useState } from "react";
 
-import { useAppDispatch, useAppSelector } from "../../redyx/hooks/hooks";
-import { setPageIndex, setSearchValue } from "../../redyx/slices/filterSlice";
+import { useAppDispatch, useAppSelector } from "../../redux/hooks/hooks";
+import { setPageIndex, setSearchValue } from "../../redux/slices/filterSlice";
 
 import styles from "./Search.module.scss"
 

@@ -1,7 +1,7 @@
 import { FC } from "react";
 
-import { useAppDispatch, useAppSelector } from "../../redyx/hooks/hooks";
-import { setPageIndex } from "../../redyx/slices/filterSlice";
+import { useAppDispatch, useAppSelector } from "../../redux/hooks/hooks";
+import { setPageIndex } from "../../redux/slices/filterSlice";
 
 import styles from "./Pagination.module.scss";
 

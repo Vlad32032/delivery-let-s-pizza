@@ -2,8 +2,8 @@ import { FC, useState } from "react";
 
 import { Link } from "react-router-dom";
 
-import { useAppDispatch, useAppSelector } from "../redyx/hooks/hooks";
-import { clearCartItems } from "../redyx/slices/cartSlice";
+import { useAppDispatch, useAppSelector } from "../redux/hooks/hooks";
+import { clearCartItems } from "../redux/slices/cartSlice";
 
 import CartItem from "../components/CartItem";
 import CartEmpty from "../components/CartEmpty";

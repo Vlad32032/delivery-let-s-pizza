@@ -2,8 +2,8 @@ import { FC, memo, useEffect, useRef, useState } from "react";
 
 import { dataSortOptionsList } from "../assets/data/data";
 
-import { useAppDispatch, useAppSelector } from "../redyx/hooks/hooks";
-import { ISortOption, selectActiveSortOption, setActiveSortOption, setPageIndex } from "../redyx/slices/filterSlice";
+import { useAppDispatch, useAppSelector } from "../redux/hooks/hooks";
+import { ISortOption, selectActiveSortOption, setActiveSortOption, setPageIndex } from "../redux/slices/filterSlice";
 
 const Sort: FC = memo(() => {
 	const sortOptionsList = dataSortOptionsList;

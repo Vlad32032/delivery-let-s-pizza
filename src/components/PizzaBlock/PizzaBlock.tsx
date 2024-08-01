@@ -4,9 +4,9 @@ import { dataTypesDough } from "../../assets/data/data";
 
 import { Link } from "react-router-dom";
 
-import { useAppDispatch, useAppSelector } from "../../redyx/hooks/hooks";
-import { addCartItem, countCart } from "../../redyx/slices/cartSlice";
-import { IPizza } from "../../redyx/slices/pizzasSlice";
+import { useAppDispatch, useAppSelector } from "../../redux/hooks/hooks";
+import { addCartItem, countCart } from "../../redux/slices/cartSlice";
+import { IPizza } from "../../redux/slices/pizzasSlice";
 
 const PizzaBlock: FC<IPizza> = memo(({ id, title, imageUrl, prices, sizes, types }) => {
     const typesDough = dataTypesDough;

@@ -6,9 +6,6 @@ import { Route, Routes } from "react-router-dom";
 import MainLayouts from "./layouts/MainLayouts";
 
 import Home from "./pages/Home";
-// import Cart from "./pages/Cart";
-// import FullPizza from "./pages/FullPizza";
-// import NotFound from "./pages/NotFound";
 
 import "./scss/app.scss";
 
@@ -38,14 +35,6 @@ const App: React.FC = () => {
 						</Suspense>
 					} />
 				</Route>
-{/* 
-				<Route path="/diliveri-let-s-pizza/" element={<MainLayouts />}>
-					<Route path="" element={<Home />} />
-					<Route path="cart" element={<Cart />} />
-					<Route path="pizza/:id" element={<FullPizza />} />
-					<Route path="*" element={<NotFound />} />
-				</Route>
-				<Route path="*" element={<NotFound />} /> */}
 			</Routes>
 		</div>
 	);

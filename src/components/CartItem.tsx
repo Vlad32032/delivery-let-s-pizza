@@ -1,7 +1,7 @@
 import React from "react";
 
 import { useDispatch } from "react-redux";
-import { addCartItem, removeOneCartItem, removeAllCartItem, countCart, ICartItem } from "../redyx/slices/cartSlice";
+import { addCartItem, removeOneCartItem, removeAllCartItem, countCart, ICartItem } from "../redux/slices/cartSlice";
 
 const CartItem: React.FC<ICartItem> = ({ id, title, price, imageUrl, type, size, count }) => {
     const dispatch = useDispatch();
