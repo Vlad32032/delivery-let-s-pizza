@@ -12,8 +12,8 @@ const CartEmpty: FC = () => {
               Вероятней всего, вы не заказывали ещё пиццу.<br />
               Для того, чтобы заказать пиццу, перейди на главную страницу.
             </p>
-            <img src={cartEmptyPng} alt="Empty cart" />
-            <Link to="/diliveri-let-s-pizza" className="button button--black">
+            <img src={cartEmptyPng} alt="Empty cart" />Ы
+            <Link to="/" className="button button--black">
               <span>Вернуться назад</span>
             </Link>
         </div>
