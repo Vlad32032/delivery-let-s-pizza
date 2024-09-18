@@ -2,7 +2,7 @@
   "name": "diliveri-let-s-pizza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vlad32032.github.io/diliveri-let-s-pizza",
+  "homepage": "https://vlad32032.github.io/delivery-let-s-pizza",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
     "@testing-library/jest-dom": "^5.17.0",
