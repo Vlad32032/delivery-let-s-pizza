@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/diliveri-let-s-pizza/static/css/main.01b03b33.css",
-    "main.js": "/diliveri-let-s-pizza/static/js/main.7ba2adea.js",
-    "Cart.js": "/diliveri-let-s-pizza/static/js/Cart.88cf370c.chunk.js",
-    "FullPizza.css": "/diliveri-let-s-pizza/static/css/FullPizza.e31ac59d.chunk.css",
-    "FullPizza.js": "/diliveri-let-s-pizza/static/js/FullPizza.bd1171cf.chunk.js",
-    "NotFound.css": "/diliveri-let-s-pizza/static/css/NotFound.9f1171c6.chunk.css",
-    "NotFound.js": "/diliveri-let-s-pizza/static/js/NotFound.1e6a75d3.chunk.js",
-    "static/media/pizza-logo.png": "/diliveri-let-s-pizza/static/media/pizza-logo.20b425caf02994ada2f0.png",
-    "static/media/empty-cart.png": "/diliveri-let-s-pizza/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "index.html": "/diliveri-let-s-pizza/index.html",
-    "main.01b03b33.css.map": "/diliveri-let-s-pizza/static/css/main.01b03b33.css.map",
-    "main.7ba2adea.js.map": "/diliveri-let-s-pizza/static/js/main.7ba2adea.js.map",
-    "Cart.88cf370c.chunk.js.map": "/diliveri-let-s-pizza/static/js/Cart.88cf370c.chunk.js.map",
-    "FullPizza.e31ac59d.chunk.css.map": "/diliveri-let-s-pizza/static/css/FullPizza.e31ac59d.chunk.css.map",
-    "FullPizza.bd1171cf.chunk.js.map": "/diliveri-let-s-pizza/static/js/FullPizza.bd1171cf.chunk.js.map",
-    "NotFound.9f1171c6.chunk.css.map": "/diliveri-let-s-pizza/static/css/NotFound.9f1171c6.chunk.css.map",
-    "NotFound.1e6a75d3.chunk.js.map": "/diliveri-let-s-pizza/static/js/NotFound.1e6a75d3.chunk.js.map"
+    "main.css": "/delivery-let-s-pizza/static/css/main.a04b4cfc.css",
+    "main.js": "/delivery-let-s-pizza/static/js/main.9d0610ec.js",
+    "Cart.js": "/delivery-let-s-pizza/static/js/Cart.fb2beff9.chunk.js",
+    "FullPizza.css": "/delivery-let-s-pizza/static/css/FullPizza.4ee233c0.chunk.css",
+    "FullPizza.js": "/delivery-let-s-pizza/static/js/FullPizza.17f433e4.chunk.js",
+    "NotFound.css": "/delivery-let-s-pizza/static/css/NotFound.b57d53d1.chunk.css",
+    "NotFound.js": "/delivery-let-s-pizza/static/js/NotFound.628f8947.chunk.js",
+    "static/media/pizza-logo.png": "/delivery-let-s-pizza/static/media/pizza-logo.20b425caf02994ada2f0.png",
+    "static/media/empty-cart.png": "/delivery-let-s-pizza/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/delivery-let-s-pizza/index.html",
+    "main.a04b4cfc.css.map": "/delivery-let-s-pizza/static/css/main.a04b4cfc.css.map",
+    "main.9d0610ec.js.map": "/delivery-let-s-pizza/static/js/main.9d0610ec.js.map",
+    "Cart.fb2beff9.chunk.js.map": "/delivery-let-s-pizza/static/js/Cart.fb2beff9.chunk.js.map",
+    "FullPizza.4ee233c0.chunk.css.map": "/delivery-let-s-pizza/static/css/FullPizza.4ee233c0.chunk.css.map",
+    "FullPizza.17f433e4.chunk.js.map": "/delivery-let-s-pizza/static/js/FullPizza.17f433e4.chunk.js.map",
+    "NotFound.b57d53d1.chunk.css.map": "/delivery-let-s-pizza/static/css/NotFound.b57d53d1.chunk.css.map",
+    "NotFound.628f8947.chunk.js.map": "/delivery-let-s-pizza/static/js/NotFound.628f8947.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01b03b33.css",
-    "static/js/main.7ba2adea.js"
+    "static/css/main.a04b4cfc.css",
+    "static/js/main.9d0610ec.js"
   ]
 }
